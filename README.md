@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Data Science and Machine Learning**
 
-- 💬 Ask me about **I am currently pursuing my Bachelor's of Technology from Chandigarh groups of colleges ,Jhanjeri in Artificial Intelligence and Machine Learning.**
+-  **I am currently pursuing my Bachelor's of Technology from Chandigarh groups of colleges ,Jhanjeri in Artificial Intelligence and Machine Learning.**
 
 - 📫 How to reach me **singhsahil172003@gmail.com**
 
